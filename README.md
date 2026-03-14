@@ -1,30 +1,77 @@
-<h1 align="center">ThisUserRIP</h1>
+<div align="center">
+
+# ThisUserRIP
+
+</div>
+
+<div align="center">
+
+## ⭕ STATUS
+
+![RIP](https://img.shields.io/badge/THIS%20USER-RIP-black?style=for-the-badge&logo=ghost)
+
+### This user has left the real world
+
+</div>
+
+---
+
+# Core Domains
+
+
+Reverse Engineering
+Memory Analysis
+Game Internals
+DirectX Hooking
+IL2CPP Reversing
+Automation
+
+
+---
+
+# Tech Stack
 
 <p align="center">
-Reverse Engineering • Game Hacking • C++
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,js,css,python,git,vscode,unity,unrealengine,visualstudio,discord,tg" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DirectX-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ImGui-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reverse%20Engineering-darkred?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## About Me
+# GitHub Stats
 
-- Reverse engineering
-- DirectX hooks
-- IL2CPP
-- Game automation
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ThisUserRIP&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=ThisUserRIP&show_icons=true&theme=tokyonight)
+</p>
 
 ---
 
-## Top Languages
+# Top Languages
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisUserRIP&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisUserRIP&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=ThisUserRIP)
+# Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisUserRIP&theme=tokyo-night"/>
+
+</p>
+
+---

@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">ThisUserRIP</h1>
 
-<!--
-**ThisUserRIP/ThisUserRIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Reverse Engineering • Game Hacking • C++
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Reverse engineering
+- DirectX hooks
+- IL2CPP
+- Game automation
+
+---
+
+## Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=ThisUserRIP&show_icons=true&theme=tokyonight)
+
+---
+
+## Top Languages
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisUserRIP&layout=compact&theme=tokyonight)
+
+---
+
+![visitors](https://komarev.com/ghpvc/?username=ThisUserRIP)
